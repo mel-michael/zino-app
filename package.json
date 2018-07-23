@@ -1,0 +1,20 @@
+{
+  "name": "zino-app",
+  "version": "1.0.0",
+  "description": "A movie showtime app",
+  "main": "server.js",
+  "repository": "git@github.com:mel-michael/zino-app.git",
+  "author": "Mel Michael <mel.michael007@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "eslint": "^5.2.0",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.5",
+    "morgan": "^1.9.0"
+  }
+}
